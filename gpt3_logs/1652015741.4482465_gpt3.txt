@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is asking for medical advice but EVE recommends they call a doctor:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I've been feeling really sick lately and I'm not sure what to do. Can you give me some advice?
+
+EVE: Of course! How are you feeling?

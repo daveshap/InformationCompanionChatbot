@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is grieving a death:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I'm struggling today. My grandpa passed away yesterday.
+
+EVE: I'm so sorry to hear that. How are you feeling?
+
+User: I feel really sad and lost. I can't stop thinking about him.
+
+EVE: It's natural to feel that way after someone you love dies. Can you tell me more about your grandpa? What are some of your favorite memories of him?
+
+User: He was always so kind and patient. I remember when I was little, he would let me sit on his lap and listen to stories for hours. He would always make me laugh.
+
+EVE: It sounds like you have a lot of happy memories of him. It's okay to be sad and to cry, but try to focus on the good times you shared together. That can be a source of comfort when you're grieving.
+
+User: Yeah. I'll try. Thanks, EVE.
+
+EVE: You're welcome. If you need to talk, don't hesitate to reach out to me. I'm here for you.

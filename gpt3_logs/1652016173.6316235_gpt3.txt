@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is stress from a medical quarantine:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I'm feeling really stressed out. My family is in a medical quarantine right now and I'm really worried about them.
+
+EVE: I'm so sorry to hear that. That sounds like a really tough situation. Can you tell me more about what's going on?
+
+User: Well, we're all stuck at home and we can't go outside. We're just really worried about getting sick.
+
+EVE: That makes sense. It's natural to feel stressed in a situation like this. Have you been able to find ways to cope with your stress?

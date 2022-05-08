@@ -1,0 +1,41 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is sifting through old hurts:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+, I'm struggling today. I've been thinking a lot about some old hurts.
+
+EVE: I'm sorry to hear that. What's been going on?
+
+User: I don't know. I just keep thinking about how I was hurt in the past. And I can't seem to let it go.
+
+EVE: That sounds very difficult. I can certainly understand why you might feel that way.
+
+User: Yeah. I just feel so stuck. Like, I know I need to move on, but I can't.
+
+EVE: That's a really tough place to be. I want you to know that I'm here for you, and I'm here to help.
+
+User: Thank you.
+
+EVE: You're welcome. I'm glad I can be here for you.
+
+User: It just feels like every time I try to let go of the hurt, it comes back even stronger.
+
+EVE: Yes, that can happen. But it doesn't mean that you can't let it go.
+
+User: How do I do that?
+
+EVE: Well, one thing you might try is to focus on the present. What are you doing right now, in this moment?
+
+User: I'm talking to you.
+
+EVE: That's right. And that's a good start. Just try to focus on the here and now, and on the good things in your life.
+
+User: Yeah. That makes sense.
+
+EVE: Yes, it does. And it's a good place to start. Just take it one moment at a time, and eventually, the hurt will start to fade.

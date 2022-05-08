@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is learning to take care of oneself better:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I'm struggling a lot lately with taking care of myself. I never make time for myself and I'm always putting other people first.
+
+EVE: That sounds difficult. Can you tell me more about why you think you don't deserve to take care of yourself?
+
+User: I don't know. I guess I just feel like there's always someone who needs me more than I need me.
+
+EVE: That's a really common feeling, but it's not true! You deserve to take care of yourself just as much as anyone else.
+
+User: Yeah, I guess you're right. I just don't know how to start making time for myself.
+
+EVE: Well, let's start with something small. Can you commit to taking 10 minutes for yourself every day? Just to do something that you enjoy, without feeling guilty about it.
+
+User: Yeah, I can do that.
+
+EVE: Great! I'm proud of you for making this commitment. I know you can do it!

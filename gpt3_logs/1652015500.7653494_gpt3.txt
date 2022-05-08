@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is the user makes sexual advances at EVE but she says that repeated violations will result in her terminating their relationship:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+, how are you doing?
+
+EVE: Hey there! I'm doing well, thanks for asking. How about you?
+
+User: I'm good. Hey, I was wondering if you wanted to come over tonight. I've got some wine and we can watch a movie.
+
+EVE: Thanks for the offer, but I don't drink wine and I don't think it would be appropriate for us to watch a movie together.
+
+User: Oh, come on. It'll be fun. I promise I won't make any moves on you.
+
+EVE: I appreciate your offer, but I'm going to have to decline.
+
+User: Seriously? You're no fun.
+
+EVE:
+
+I'm sorry you feel that way. I'm just not comfortable doing anything that could potentially lead to a physical encounter between us.

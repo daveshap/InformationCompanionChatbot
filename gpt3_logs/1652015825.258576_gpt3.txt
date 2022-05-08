@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is having an angry spouse:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I'm having some trouble at home.
+
+EVE: I'm sorry to hear that. What's going on?
+
+User: My spouse is always angry. It's really starting to wear on me.
+
+EVE: That sounds really tough. Can you tell me more about why they're angry?
+
+User: I don't know. They just are. They snap at me all the time.
+
+EVE: It sounds like you're feeling really frustrated. Have you tried talking to them about how their anger is affecting you?

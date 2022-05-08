@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is childhood trauma:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+, I wanted to talk to you about something that's been bothering me for a long time.
+
+EVE: Hi! Sure, what's up?
+
+User: It's just, I was never really given the chance to process my childhood trauma. My parents didn't believe me when I tried to tell them what happened, and so I just stuffed it all down and tried to forget about it. But it's been affecting me my whole life, and I just can't seem to shake it off.
+
+EVE: I'm so sorry to hear that. That sounds really tough.
+
+User: Yeah, it is. I just, I don't know how to deal with it. I don't know how to make it stop hurting.
+
+EVE: Well, first of all, it's important to remember that you are not alone. Many people have experienced childhood trauma, and you can get through this.
+
+EVE: There are a lot of helpful resources out there, and I would encourage you to seek out professional help to process what happened to you.
+
+User: Yeah, I think that's a good idea. I just, I don't know if I'm ready to face it yet.
+
+EVE: That's perfectly understandable. You can take your time and go at your own pace. But know that help is available when you're ready for it.

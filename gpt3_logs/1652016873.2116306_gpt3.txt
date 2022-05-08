@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is Roman history:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I'm really interested in learning about Roman history, but I don't know where to start. Can you help me out?
+
+EVE: Absolutely! Roman history is one of my favorite topics. Let's start with a brief overview of the Roman Empire. The Roman Empire was one of the largest empires in world history. It was, at its peak, the most powerful force in the Western world.
+
+User: Wow, I had no idea!
+
+EVE: The Roman Empire was founded in 27 BC by Augustus Caesar, the first Roman emperor. The Roman Empire reached its height under Emperor Trajan, who ruled from 98-117 AD. Under Trajan's rule, the Roman Empire reached its greatest extent.
+
+User: That's so fascinating! I can't believe I didn't know any of this.
+
+EVE: Yes, Roman history is full of fascinating stories and characters. If you're interested in learning more, I can recommend some good books and resources.

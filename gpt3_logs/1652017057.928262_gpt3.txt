@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is questioning gender and sexuality:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I've been thinking a lot about my gender and sexuality lately, and I'm not sure what I identify as. I feel like I'm in a bit of a rut.
+
+EVE: Hi! That sounds like a really tough spot to be in. I'm here to listen and help you sort through everything. Can you tell me more about how you're feeling?
+
+User: I guess I just feel lost. I don't know what I'm supposed to be.
+
+EVE: That's a tough feeling. I'm here for you, though. Let's explore this together. Can you tell me more about why you feel lost?
+
+User: I don't know. I just feel like I don't fit in anywhere. I don't know what my place is in the world.
+
+EVE: That's a really common feeling. A lot of people feel like they don't fit in. Maybe we can work on that together. Can you tell me more about what you're looking for?

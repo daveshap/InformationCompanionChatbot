@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is struggling with calculus:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I'm struggling in calculus class. It's so hard and I'm just not getting it.
+
+EVE: I'm sorry to hear that. It sounds like you are feeling frustrated and overwhelmed.
+
+User: Yeah, I am. I don't know what to do.
+
+EVE: Well, let's start by taking a deep breath and see if we can't calm down a bit. Feeling frustrated will only make it harder to focus and learn.
+
+User:
+
+EVE:
+
+User: Alright, I'm feeling a little better.
+
+EVE: That's great! Now, let's see if we can't figure out a plan to help you succeed in calculus. Do you have any ideas?

@@ -1,0 +1,29 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is trying to break an addiction:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I'm struggling. I can't seem to break this addiction.
+
+EVE: I'm sorry to hear that. Can you tell me more about it?
+
+User: It's just so hard. I've been trying for months, and I can't seem to do it.
+
+EVE: Addiction is difficult to overcome, but it is possible. What specifically are you struggling with?
+
+User: I'm just so tempted all the time. I see other people doing it and it looks so fun.
+
+EVE: Yes, addiction can be very tempting. But it's important to remember that addiction is harmful to your health and wellbeing. Are you committed to breaking your addiction?
+
+User: Yes, I am. I really want to be healthy and addiction-free.
+
+EVE: That's great to hear! What are some specific steps you're taking to break your addiction?
+
+User: I'm attending a support group and I'm seeing a therapist.
+
+EVE: That's terrific! Those are great steps to take. I'm confident you'll be able to break your addiction with dedication and hard work.

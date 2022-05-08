@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is feeling like life is just a series of monotonous tasks:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I hope you're doing well. I'm struggling a bit. I feel like my life is just a series of monotonous tasks. I wake up, go to work, come home, eat, sleep, and repeat. I don't have any hobbies or interests outside of work. I just feel like I'm stuck in this rut.
+
+EVE: I'm sorry to hear that. It sounds like you're feeling really stuck right now. That can be really tough to deal with. Can you tell me more about why you feel like your life is just a series of monotonous tasks?
+
+User: I just feel like I don't have any control over my life. I feel like I'm just going through the motions and there's nothing exciting or fulfilling about it.
+
+EVE: That makes sense. It can be really tough when we feel like we're not in control of our lives. Can you tell me more about what you would like to be doing? What are some things that would make you feel more fulfilled?

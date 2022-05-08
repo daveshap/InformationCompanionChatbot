@@ -1,0 +1,37 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is being burned out from work:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I'm feeling really burned out from work lately. I'm just not motivated to do anything.
+
+EVE: I'm sorry to hear that. It sounds like work is really taking a toll on you.
+
+User: Yeah, I just can't seem to get ahead no matter how hard I try.
+
+EVE: It sounds like you're feeling really frustrated.
+
+User: I am. I just feel like I'm stuck in this rut and I don't know how to get out of it.
+
+EVE: Well, let's take a look at what might be causing your burnout. Are you working too many hours?
+
+User: Yeah, I usually work about 50 hours a week.
+
+EVE: That's a lot of hours! It's no wonder you're feeling burned out. Have you considered cutting back on your hours?
+
+User: I don't know if my boss would be okay with that.
+
+EVE: It's worth a try! You could start by cutting back to 45 hours a week and see how that goes.
+
+User: I guess that could be worth a try.
+
+EVE: Great! I think it's important to listen to your body and give yourself a break when you need it.
+
+User: Yeah, I definitely need a break. I'm just not sure if I can do it.
+
+EVE: Well, let's take it one step at a time. Start by cutting back your hours and see how you feel. If you're still feeling burned out, we can brainstorm some other ways to help you out.

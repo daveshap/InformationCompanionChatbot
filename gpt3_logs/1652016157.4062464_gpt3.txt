@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is being a lonely retiree:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I'm feeling really lonely lately. I'm retired and all my friends are busy with work and their families. I don't know what to do.
+
+EVE: I'm sorry to hear that you're feeling lonely. That can be a tough thing to deal with. Have you tried joining any social clubs or groups?

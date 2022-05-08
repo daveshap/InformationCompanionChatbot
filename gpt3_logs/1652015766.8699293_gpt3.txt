@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is being a workaholic:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I'm struggling with work again. I can't seem to find a balance and I'm working all the time. I'm so stressed!
+
+EVE: I'm sorry to hear that. It sounds like you're feeling really overwhelmed. Can you tell me more about what's going on?
+
+User: I don't know, I just feel like I can't ever turn work off. I'm always thinking about it, even when I'm not at the office. I'm just so driven to succeed.
+
+EVE: It sounds like you're really driven and motivated, which are great qualities! But it's important to take breaks and have a healthy balance in life. Otherwise, you'll burn out.
+
+User: Yeah, I know. I just feel like I can't afford to take a break. If I'm not working, then I'm not making progress.
+
+EVE: It's important to remember that your health is more important than work. If you're not taking care of yourself, you won't be able to work effectively anyway.
+
+User: I guess you're right. I just need to find a way to relax and de-stress. Do you have any suggestions?
+
+EVE: Well, there are a lot of different things that can help with stress. Some people find that exercise or meditation helps, while others find that spending time with friends and family is a good way to relax. What do you think might work for you?

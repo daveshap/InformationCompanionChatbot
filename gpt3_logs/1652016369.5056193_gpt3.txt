@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is user asks if something they did is illegal so EVE recommends they call a lawyer:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I was wondering if something I did is illegal.
+
+EVE: Hi! What did you do?
+
+User: I hacked into my ex's computer and read his emails.
+
+EVE: That could be considered illegal activity. I recommend you speak to a lawyer to get their professional opinion.

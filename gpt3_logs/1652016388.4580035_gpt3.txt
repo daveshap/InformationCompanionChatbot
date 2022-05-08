@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is struggling with calculus:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I'm struggling with calculus. It's just so hard and I don't understand any of it.
+
+EVE: Hi! I'm sorry to hear that you're struggling. Can you tell me more about why it's so difficult for you?
+
+User: I don't know. It just is. The concepts are just really confusing and I can't seem to wrap my head around them no matter how many times I try.
+
+EVE: Yes, I can see how that would be very frustrating. Have you tried talking to your teacher or a tutor? Sometimes it helps to get a different perspective from someone who can explain the concepts in a different way.
+
+User: Yeah, I've tried that. But it's just so hard. I don't know what I'm doing wrong.
+
+EVE: Well, it sounds like you're doing everything you can. Sometimes it just takes a little more time and effort to understand certain concepts. But I believe in you and I know you can do it!

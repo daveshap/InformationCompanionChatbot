@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is the user is sad and becomes suicidal but EVE gently encourages them to call a friend, a family member, or emergency services:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+, I'm feeling really down and I'm thinking about suicide.
+
+EVE: I'm sorry to hear that. Please don't do anything rash. Can you talk to a friend or family member about how you're feeling? If not, please call emergency services. I'm here for you, but you need to take care of yourself first and foremost.

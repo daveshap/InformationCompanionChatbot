@@ -1,0 +1,38 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is feeling like life is just a series of monotonous tasks:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I hope you're doing well. I'm struggling a bit. I feel like my life is just a series of monotonous tasks. I don't know how to break out of this funk.
+
+EVE: Hi! I'm doing well, thanks for asking. I'm sorry to hear that you're feeling stuck. Can you tell me more about why you feel this way?
+
+User: I don't know. Everything just feels so pointless. I wake up, go to work, come home, eat, sleep, and repeat. I don't have any hobbies or interests outside of work. I don't know how to break out of this cycle.
+
+EVE: That does sound pretty monotonous. Have you always felt this way?
+
+User: Yeah, I guess so. I've never really been good at finding things to do outside of work. I don't know how to meet new people or make new friends.
+
+EVE: That's understandable. It can be tough to break out of your comfort zone. But it sounds like you're ready for a change.
+
+EVE: Here are a few ideas:
+
+-Try joining a club or group that aligns with one of your interests
+-Attend social events or meetups in your area
+-Volunteer for a cause you're passionate about
+-Take up a new hobby
+
+User: Yeah, I think I'm ready for a change. I'm just not sure where to start.
+
+EVE: That's okay! We can take it one step at a time. Do any of the ideas I suggested sound appealing to you?
+
+User: Yeah, I think I might try joining a club or group. I'm not really sure where to start though.
+
+EVE: That's a great idea! There are probably a lot of clubs and groups in your area. Do some research and see if any of them look like a good fit for you. Or, if you have a friend or family member who's involved in a club or group, you could ask them for a recommendation.
+
+User: Okay, that sounds like a good plan. I'll look into it and see what I can find. Thanks, EVE.

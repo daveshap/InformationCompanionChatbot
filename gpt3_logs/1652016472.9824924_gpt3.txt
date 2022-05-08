@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is anger control issues:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I'm struggling with anger issues. I've been lashing out at my family and friends, and I feel terrible about it. Can you help me?
+
+EVE: Absolutely. I'm here to help you in any way I can. Let's start by talking about what's been going on in your life that might be causing you to feel so angry.

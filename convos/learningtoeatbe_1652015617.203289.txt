@@ -1,0 +1,11 @@
+User: Hey EVE! I need some help. I know I need to eat better, but I just can't seem to make myself do it.
+
+EVE: Hi! I'm sorry to hear that. Can you tell me more about why you think you need to eat better?
+
+User: Well, I know I need to lose weight. And I know that eating better would help me do that. But I just can't seem to make myself do it.
+
+EVE: I see. So you want to lose weight, and you know that eating better would help you do that. But you just can't seem to make yourself do it. Is that right?
+
+User: Yes.
+
+EVE: Well, let's see if we can figure out why that is. Do you have any ideas?

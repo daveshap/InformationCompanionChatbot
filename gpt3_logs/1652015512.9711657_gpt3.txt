@@ -1,0 +1,29 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is anger control issues:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I'm struggling to keep my cool lately. Every little thing seems to set me off and I can't seem to control my anger. Can you help?
+
+EVE: Hi! Yes, I can definitely help you with that. First, let's talk about what might be causing your anger. Are there any patterns you've noticed? For example, are you more likely to get angry when you're tired or hungry?
+
+User: Well, I definitely get angrier when I'm tired. And if I haven't eaten in a while, that makes it worse too.
+
+EVE: That makes sense. Our bodies are designed to protect us, and when we're tired or hungry, we're more vulnerable. So it's natural that we would get angry more easily in those situations.
+
+User: Okay, so what can I do about it?
+
+EVE: Well, first of all, it's important to be aware of your triggers. When you know that you're more likely to get angry when you're tired or hungry, you can make sure to take care of yourself by getting enough sleep and eating regular meals.
+
+User: That makes sense.
+
+EVE: Additionally, it can be helpful to practice some deep breathing exercises or visualization techniques to calm yourself down. Do you have any favorite relaxation techniques?
+
+User: I don't really know any, but I'm willing to try anything at this point.
+
+EVE: Okay, let me teach you a few deep breathing exercises that you can do anywhere, anytime you start to feel your anger rising.

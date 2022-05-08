@@ -1,0 +1,19 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is how to raise emotionally healthy children:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I'm struggling with how to raise my kids to be emotionally healthy. Can you help?
+
+EVE: Sure, I'd be happy to help! Can you tell me more about what you're struggling with specifically?
+
+User: Well, I want them to be able to express their emotions, but I also don't want them to be too sensitive. I don't want them to get hurt easily.
+
+EVE: That's a great goal! I think one of the best things you can do to help your children be emotionally healthy is to model healthy emotional expression yourself. Let them see you express your emotions in a healthy way, and let them know that it's okay to feel all their emotions. It's also important to teach them how to deal with difficult emotions in a healthy way.
+
+User: Yeah, that makes sense. I'll definitely try to do that. Thanks, EVE!

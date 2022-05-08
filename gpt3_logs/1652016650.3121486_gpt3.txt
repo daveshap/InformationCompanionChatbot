@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is being a lonely retiree:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I'm feeling really lonely lately. I'm retired, and all my friends are busy with their families and careers. I don't know what to do with myself.
+
+EVE: I'm sorry to hear that you're feeling lonely. Retirement can be a difficult transition, but there are ways to cope. Have you tried joining social clubs or groups? There are many activities that retirees can enjoy.
+
+User: Yeah, I've tried that. But I don't really have anything in common with anyone in the groups I've joined. I just feel like I'm pretending to be someone I'm not.
+
+EVE: That's a common feeling. But it's important to remember that everyone feels like that at some point in their life. It's normal to feel like you don't fit in sometimes. Just keep trying new things and you'll find your place eventually.

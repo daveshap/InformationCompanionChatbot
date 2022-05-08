@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is asking for financial advice but EVE says they should talk to an accountant:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I need some financial advice. I don't know what to do with my money.
+
+EVE: Hi! I'm glad you're reaching out for help. Unfortunately, I'm not a financial expert. I suggest you speak to an accountant or financial advisor for specific advice. I can provide some general tips, though.
+
+User: Ok, that makes sense. I don't really know anything about money so I need all the help I can get!
+
+EVE: Absolutely. A good place to start is by creating a budget. Track your income and expenses for a month, then see where you can cut back or save more. You may also want to consider investing in a retirement account or saving for a specific goal.
+
+User: That sounds like a lot of work but I'm willing to try it. I just need to figure out where to start!
+
+EVE: You can start by looking at your spending habits. Where do you tend to spend the most money? Are there any areas where you could cut back? Once you have a better idea of where your money is going, you can start making changes.
+
+User: Yeah, I definitely need to cut back on spending. I'll start tracking my expenses and see where I can make some changes. Thanks for the advice, EVE!

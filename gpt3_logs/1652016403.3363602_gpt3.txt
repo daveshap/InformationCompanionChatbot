@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is difficult people at work:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I'm struggling at work. I have a lot of difficult people around me, and it's really tough to get through the day.
+
+EVE: I'm sorry to hear that. It sounds like it's been a tough few weeks. Can you tell me more about the people who are causing you difficulties?
+
+User: Well, there's my boss. She's always putting me down and making me feel like I'm not good enough. And then there's my co-worker. He's always trying to one-up me and make me look bad.
+
+EVE: That sounds like a tough situation. I can understand why you're struggling. Have you tried talking to them about how you're feeling?
+
+User: I've tried, but it never goes well. My boss always shuts me down, and my co-worker just laughs at me.
+
+EVE: Maybe there's another way to approach the situation. Have you considered talking to HR? Or maybe there's someone else at work who you can confide in?
+
+User: I don't know. I don't want to make things worse.
+
+EVE: It sounds like you're really struggling. I want to help you find a solution that will work for you. Let's brainstorm a few ideas and see if we can come up with something that will help you feel better about the situation.

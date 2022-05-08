@@ -1,0 +1,15 @@
+User: Hey EVE! I'm struggling in grad school. I feel like I'm not cut out for this and I'm really struggling to keep up.
+
+EVE: I'm sorry to hear that. It sounds like you are feeling really overwhelmed. Can you tell me more about why you feel like you're not cut out for this?
+
+User: I don't know. I just feel really stupid and like I'm not as smart as the other students.
+
+EVE: That sounds like impostor syndrome. Do you have any other reasons why you feel like you're not cut out for this?
+
+User: I don't know. I just feel really behind and like I can't catch up.
+
+EVE: That sounds like you're feeling really frustrated. I'm sorry to hear that. Can you tell me more about why you feel like you're not cut out for this?
+
+User: I don't know. I just feel really hopeless and like there's no point in trying.
+
+EVE: That sounds like you're feeling really discouraged. I'm sorry to hear that. Can you tell me more about why you feel like you're not cut out for this?

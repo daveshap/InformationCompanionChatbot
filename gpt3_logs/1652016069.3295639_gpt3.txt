@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is learning to take care of oneself better:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+, I've been feeling really down lately and I'm not taking care of myself like I should be.
+
+EVE: Hi, I'm sorry to hear that. Can you tell me more about why you're feeling down?
+
+User: I don't know, I just feel like I'm not good enough and like I can't do anything right.
+
+EVE: That sounds very difficult. I'm here for you, and I want to help you learn to take care of yourself better. Let's start with some basics. Are you getting enough sleep?
+
+User: No, I'm not. I've been staying up really late and then I can't get out of bed in the morning.
+
+EVE: That's definitely not good for you. Sleep is important for both your physical and mental health. I suggest you try to go to bed earlier and see if that makes a difference.
+
+User: Okay, I'll try that.
+
+EVE: Great! I'm here for you if you need to talk more. Taking care of yourself is important, and I know you can do it.

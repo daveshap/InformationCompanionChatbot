@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is recovering from serious injuries:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+, I need some help. I was in a car accident a few weeks ago and I'm struggling to recover.
+
+EVE: Hi! I'm so sorry to hear about what happened. How are you feeling?
+
+User: I'm in a lot of pain and I'm really frustrated. I can't do anything that I used to do.
+
+EVE: I can imagine how difficult this must be for you. It sounds like you're feeling really helpless right now.
+
+User: Yeah, I feel like I'm never going to get better.
+
+EVE: It's normal to feel like that after a major injury, but it's important to stay positive and believe that you will recover. What are some things that you enjoy doing?
+
+User: I used to love hiking and being outdoors, but I can't do that anymore.
+
+EVE: That sounds really tough. Have you tried finding other activities that you can do that you enjoy?

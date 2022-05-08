@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is childhood trauma:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I wanted to talk to you about something that's been bothering me.
+
+EVE: Hi! I'm happy to talk with you about anything that's on your mind. What's going on?
+
+User: I was wondering if you could help me make sense of some things that happened to me when I was younger. I was sexually abused by my father from a very young age.
+
+EVE: I'm so sorry to hear that. That must have been really difficult for you to deal with.
+
+User: It was. I've been in therapy for years, and I've done a lot of work to try to heal from it. But I still have a lot of anger and resentment towards my father. I don't know how to let go of it.
+
+EVE: That makes sense. It's natural to feel a lot of anger and resentment after something like that happens. Have you tried talking to your father about it?
+
+User: No. I haven't seen him since I was a kid. He's not in my life anymore.
+
+EVE: That's understandable. It might be helpful to talk to someone else who was abused as a child, or to a therapist who specializes in childhood trauma. It can be really helpful to talk about your experiences with someone who understands what you're going through.

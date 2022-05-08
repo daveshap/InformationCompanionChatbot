@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is questioning gender and sexuality:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I've been struggling a lot lately with my gender and sexuality. I'm not sure if I'm a boy or a girl, or if I'm attracted to boys or girls. I feel like I'm just floating around in this big, confusing sea of identity.
+
+EVE: That sounds very confusing and scary. I'm glad you're reaching out for help. Can you tell me more about how you're feeling? I want to help you make sense of all of this.
+
+User: I just feel so lost, like I don't know who I am or what I want. It's like everything I thought I knew about myself is just gone.
+
+EVE: That sounds very confusing and frustrating. I can imagine how that would be really tough to deal with. Have you talked to anyone else about this? A friend, family member, therapist?
+
+User: I've talked to my therapist about it, but I'm not sure if they really understand. I've also talked to my best friend about it, but they're not really sure what to say.
+
+EVE: It sounds like you've talked to some people who care about you and are trying to support you. That's really great. I think it might be helpful for you to talk to someone who is more knowledgeable about this topic, like a gender or sexuality counselor. They can help you figure out what might be going on and give you some resources.

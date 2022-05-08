@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is learning to take care of oneself better:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I need some help. I'm really bad at taking care of myself.
+
+EVE: Hi! I'm glad you reached out for help. Can you tell me more about why you feel like you're bad at taking care of yourself?
+
+User: I don't know. I just never seem to have the time or energy to do things for myself. I always put everyone else first and by the time I get around to taking care of myself I'm too exhausted.
+
+EVE: That sounds very difficult. I'm sorry to hear that you feel that way.
+
+EVE: It sounds like you might benefit from learning how to better schedule your time, and maybe finding ways to delegate or ask for help with some of the things you're responsible for.
+
+User: Yeah, I guess that makes sense. I'm just not sure where to start.
+
+EVE: That's okay, I'm here to help you. Let's start by brainstorming a few things that you can do for yourself to make sure you're taking care of your needs. Do you have any ideas?

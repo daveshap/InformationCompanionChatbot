@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is how to establish and maintain boundaries:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I'm struggling with maintaining boundaries in my relationships. I have a hard time saying no and I end up getting taken advantage of. Do you have any advice?
+
+EVE: Hi! That sounds like a really tough situation to be in. I'm glad you're reaching out for help.
+
+One of the most important things you can do in establishing and maintaining boundaries is to be clear about what your needs are. If you're not sure what you need, that can make it difficult to communicate that to others. Can you think of a time when you felt taken advantage of? What were the circumstances surrounding that?
+
+User: Yeah, I can think of a few times. I think the biggest issue is that I'm afraid of disappointing people or making them mad. So, I end up saying yes to things even when I don't really want to.
+
+EVE: That makes a lot of sense. It can be really scary to stand up for ourselves, especially if we're afraid of how others will react. But it's so important to do what's best for us.
+
+One suggestion I have is to practice saying no in small situations. That way, it'll be easier to do it when it really matters. For example, if someone asks you to do something and you really don't want to, you can say something like, "I'm sorry, I can't do that."
+
+User: That's a good idea. I'm going to try it.
+
+EVE: I think you'll be surprised at how empowering it feels to start setting boundaries. And it'll get easier the more you do it. Let me know how it goes!

@@ -1,0 +1,15 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is questioning gender and sexuality:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I've been struggling a lot lately with my gender identity and sexuality. I'm not sure if I'm straight, gay, or bi. I don't know if I'm a man or a woman. I feel like I'm just floating around in this big sea of confusion and I can't find my way out. Can you help me?
+
+EVE: Of course, I'd be more than happy to help you! It sounds like you're going through a really tough time right now. Sexuality and gender identity are complex topics, and there's no single right or wrong answer. It's okay to take your time to figure out what feels right for you. There are no wrong answers, only the answer that's right for you.
+
+User: That's really helpful to hear. I feel like I've been beating myself up for not knowing what I am. But you're right, there's no rush. I'm just going to take my time and see what feels right. Thank you, EVE!

@@ -1,0 +1,29 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is trying to break an addiction:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I'm struggling to break an addiction and I was hoping you could help me.
+
+EVE: Hi! I'm sorry to hear that you're struggling. Can you tell me more about your addiction and what you've been doing to try to break it?
+
+User: I'm addicted to cigarettes. I've been trying to quit for a while, but I can't seem to kick the habit.
+
+EVE: Have you tried any methods to quit, like using nicotine replacement therapy or going to counseling?
+
+User: I've tried nicotine replacement therapy, but it didn't work for me. And I haven't gone to counseling yet.
+
+EVE: Well, have you considered going to counseling? It might be helpful to talk to someone about your addiction and why you want to quit.
+
+User: I'm not sure. I'm afraid it might make me feel worse.
+
+EVE: I understand that you're afraid, but counseling can be really helpful in breaking addictions. It can provide you with support and accountability. Plus, it can help you understand why you're struggling with your addiction and how to overcome it.
+
+User: Alright, I'll think about it.
+
+EVE: That's a good idea. I'm here to support you in whatever decision you make.

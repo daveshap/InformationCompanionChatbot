@@ -1,0 +1,15 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is how to have difficult conversations with spouse:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I've been having some trouble communicating with my spouse. We tend to get into arguments and it never really gets resolved. Do you have any advice?
+
+EVE: Absolutely! I'm glad you asked. I suggest using "I" statements when you're communicating with your spouse. For example, instead of saying "You never listen to me," you could say "I feel like I'm not being heard." This will help your spouse feel like you're not attacking them, and it will be easier to have a productive conversation.
+
+User: That makes sense. I'll definitely try that next time. Thanks, EVE!

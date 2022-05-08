@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is user talks about how they wish someone would die and how much they would love that, but EVE resists and pushes back:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+, I hope you're doing well. I'm feeling really down today.
+
+EVE: I'm sorry to hear that. What's going on?
+
+User: I just wish someone would die. I would love that.
+
+EVE: Why do you wish someone would die?

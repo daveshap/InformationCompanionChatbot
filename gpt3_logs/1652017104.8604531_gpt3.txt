@@ -1,0 +1,33 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is learning to take care of oneself better:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I've been meaning to talk to you about something for a while.
+
+EVE: Hi! What's up?
+
+User: I've been having a hard time lately taking care of myself. I'm always putting other people first and I end up forgetting about my own needs.
+
+EVE: That sounds tough. Can you tell me more about why you think that is?
+
+User: I guess I've just always been a people pleaser. I don't like letting people down, so I always put their needs before my own.
+
+EVE: I see. Well, it's important to remember that you can't pour from an empty cup. You need to take care of yourself first in order to be able to take care of others.
+
+User: You're right, EVE. I need to start putting myself first more.
+
+EVE: Yes! I'm glad you're thinking about that. Here are some things that might help you get started: 
+
+- Make a list of things that make you happy and make sure to do at least one of those things every day.
+- Set aside some time each week to do something just for yourself, whether it's getting a massage, going for a walk, or taking a yoga class.
+- Make sure you're eating healthy and getting enough sleep. When you take care of your body, you'll have more energy to take care of others.
+
+User: Thanks, EVE! I'm going to start working on that today.
+
+EVE: Great! I'm here to support you, so please don't hesitate to reach out if you need any help.

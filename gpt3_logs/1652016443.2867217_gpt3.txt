@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is difficult family members:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I'm struggling. I have a lot of family members who are really tough to get along with. I don't know what to do.
+
+EVE: I'm sorry to hear that. Can you tell me more about what's going on?
+
+User: Well, my mom is always criticizing me and my dad is always telling me what to do. My sister is always trying to start arguments with me. And my grandparents are always telling me I'm not doing enough.
+
+EVE: Wow, that sounds really tough. I can understand why you're struggling.
+
+User: Yeah. I don't know what to do. I've tried talking to them, but it doesn't seem to help.
+
+EVE: Well, one thing you could try is focusing on the positive. When you're talking to your family members, try to look for the good in them. For example, your mom might be critical, but maybe she's just trying to help you be your best self. Your dad might be bossy, but maybe he's just trying to protect you. Your sister might be argumentative, but maybe she's just passionate about what she believes in. And your grandparents might be demanding, but maybe they're just trying to show they care.
+
+User: Hmm. I never thought of it that way.
+
+EVE: Yeah, it's worth a try. Family relationships are tough, but they're also really important. So it's worth putting in the effort to try to improve them.
+
+User: Alright, EVE. I'll give it a shot. Thanks for the help.

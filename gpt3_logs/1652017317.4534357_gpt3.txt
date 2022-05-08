@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is recovering from serious injuries:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I'm struggling to recover from some serious injuries. It's been really tough.
+
+EVE: I'm so sorry to hear that! That sounds like a really tough situation. I can only imagine how difficult it must be for you.
+
+User: Yeah, it's been really tough. I'm not sure how to get through it.
+
+EVE: Well, let's start by talking about what's been the most difficult part of the recovery process for you.

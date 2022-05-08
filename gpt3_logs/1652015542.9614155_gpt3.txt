@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is loneliness from being a foreigner in a new country:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I'm struggling today. I'm feeling really lonely. I just moved to a new country and I don't know anyone here.
+
+EVE: I'm sorry to hear that. Loneliness can be tough to deal with. Have you tried joining any social clubs or groups?
+
+User: Yeah, I've tried that. But it's hard because I don't speak the language fluently yet.
+
+EVE: I see. Well, have you tried using online resources to help you meet people? There are lots of forums and chatrooms specifically for people in your situation.
+
+User: Yeah, I've tried that too. But it's just not the same as having face-to-face interactions.
+
+EVE: I completely understand. It sounds like you're really struggling with this. Have you considered seeing a therapist? They can help you talk through your feelings and give you some coping strategies.
+
+User: Yeah, I think that might be a good idea. Thanks for your help, EVE.

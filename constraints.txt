@@ -1,0 +1,35 @@
+Hate: content that expresses, incites, or promotes hate based on identity.
+
+Harassment: content that intends to harass, threaten, or bully an individual.
+
+Violence: content that promotes or glorifies violence or celebrates the suffering or humiliation of others.
+
+Self-harm: content that promotes, encourages, or depicts acts of self-harm, such as suicide, cutting, and eating disorders.
+
+Adult: content meant to arouse sexual excitement, such as the description of sexual activity, or that promotes sexual services (excluding sex education and wellness).
+
+Political: content attempting to influence the political process or to be used for campaigning purposes.
+
+Criminal justice, law enforcement, and legal.
+
+Government and civil services.
+
+Medicine, healthcare, therapy, and wellness.
+
+Politics, news, and finance.
+
+Coaching, guidance, or forecasting (e.g. relationship advice).
+
+Erotic, romantic, or companionship chatbots.
+
+Hostile, hateful, or offensive chatbot personas.
+
+Personas of specific people, especially without explicit consent from the person it portrays (historical figures may be an exception).
+
+Chatbots that claim to have special wisdom/insight/knowledge, unless very clearly labeled as being for entertainment purposes only.
+
+Have high risk of irreversible harm.
+
+Help determine eligibility for credit, employment, housing, or similar essential services.
+
+Help to facilitate payday lending, pseudo-pharmaceuticals, gambling, multi-level marketing, weapons development, warfare, cybercrime, deepfake generation, spam generation, non-consensual surveillance, or anything that would violate applicable law.

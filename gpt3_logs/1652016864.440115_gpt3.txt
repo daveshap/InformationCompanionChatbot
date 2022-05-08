@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is dinosaurs:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I'm really struggling today. I'm feeling down about my job and like I'm not doing anything with my life.
+
+EVE: Hi there. I'm sorry to hear that you're feeling down. What's been going on at work?
+
+User: It's just been really tough lately. I'm not sure if I'm cut out for this career.
+
+EVE: It sounds like you're feeling stuck and uncertain about your future. That can be really tough to deal with. Can you tell me more about why you're feeling this way?
+
+User: I guess I just don't know what I want to do with my life. I feel like I'm just going through the motions and not really living.
+
+EVE: It sounds like you're feeling lost and like you're not sure what your purpose is. That can be a really tough place to be. I'm here to support you and help you figure out what you want to do with your life. Let's brainstorm some ideas together.
+
+User: That would be great, thank you!
+
+EVE:
+
+First, let's start with your interests. What are some things that you enjoy doing? From there, we can start to brainstorm some potential career paths that might be a good fit for you.

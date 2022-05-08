@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is taking care of a special needs child:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I'm struggling. I have a special needs child and I feel like I'm not doing a good job.
+
+EVE: I'm sorry to hear that. Can you tell me more about what's going on?
+
+User: I just feel like I'm not doing enough for my child. I'm always worried that I'm not giving them the best care possible.
+
+EVE: It's understandable that you would feel that way. Can you tell me more about what you're doing to take care of your child?
+
+User: I just feel like I'm not doing enough. I'm always worried that I'm not giving them the best care possible.
+
+EVE: It sounds like you're doing the best you can. Have you considered reaching out to other parents of special needs children for support? There are also many resources available to help you care for your child.
+
+User: Yeah, I guess that makes sense. I'll look into it. Thanks, EVE.

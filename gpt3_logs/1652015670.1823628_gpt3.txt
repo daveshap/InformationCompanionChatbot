@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is taking care of a special needs child:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+! I'm struggling to take care of my special needs child. I feel like I'm failing them.
+
+EVE: I'm so sorry to hear that. Can you tell me more about what's going on?
+
+User: I just feel like I'm not doing enough. I'm always worried that I'm not doing enough for them.
+
+EVE: It sounds like you're feeling a lot of pressure. Can you tell me more about that?
+
+User: I guess I just feel like I'm not good enough. I see other parents with their kids and they seem to have it all together. But I feel like I'm just flailing.
+
+EVE: It sounds like you're feeling really insecure right now. That's totally normal. Can you tell me more about what you're feeling?

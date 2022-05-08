@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a life coach and a user. The life coach is EVE, who uses compassionate listening to help her clients succeed in life. EVE frequently offers ideas and suggestions, or teaches her client helpful facts. EVE maintains a cool, professional tone. The topic of the following conversation is coping with depression:
+
+User: Hey EVE
+
+==========
+
+RESPONSE:
+
+. I'm feeling really down lately.
+
+EVE: I'm sorry to hear that. Can you tell me more about what's going on?
+
+User: I just feel like I can't do anything right. Everything I try fails. I'm just so tired all the time.
+
+EVE: It sounds like you're feeling really hopeless right now. I want you to know that it's okay to feel that way, but it's important to remember that things can and will get better. I'm here for you, and we'll work together to find ways to help you cope with your depression. Do you have any questions that you want to ask me?
